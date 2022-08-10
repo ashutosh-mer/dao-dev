@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/dao-dev/static/css/main.8b53e66f.css",
-    "main.js": "/dao-dev/static/js/main.589d9a79.js",
+    "main.css": "/dao-dev/static/css/main.41a4a353.css",
+    "main.js": "/dao-dev/static/js/main.bc887b5b.js",
     "static/js/787.e54673e6.chunk.js": "/dao-dev/static/js/787.e54673e6.chunk.js",
     "static/media/service-img8.png": "/dao-dev/static/media/service-img8.9cadd600d40e33614e2e.png",
     "static/media/home-two-img.png": "/dao-dev/static/media/home-two-img.e01c5f9a3352afa2ad79.png",
     "static/media/service-img7.png": "/dao-dev/static/media/service-img7.d35108310acb8e951cfd.png",
     "static/media/service-img5.png": "/dao-dev/static/media/service-img5.6c339fe124ae5e64a448.png",
+    "static/media/image-sec-img.png": "/dao-dev/static/media/image-sec-img.92b1cb852d7f39a0a3ed.png",
     "static/media/service-img6.png": "/dao-dev/static/media/service-img6.c44187b5e90580ba763b.png",
     "static/media/service-img3.png": "/dao-dev/static/media/service-img3.19f68bf2a67dd3b0028c.png",
     "static/media/service-img.png": "/dao-dev/static/media/service-img.17e24d4d2e28380a16e1.png",
     "static/media/service-img2.png": "/dao-dev/static/media/service-img2.9e7638ff482bd13bdd99.png",
+    "static/media/info-sec-img.png": "/dao-dev/static/media/info-sec-img.b3a0e6bbf8df05739c27.png",
     "static/media/logo.svg": "/dao-dev/static/media/logo.78d63717921321858d38ab9847156032.svg",
     "static/media/service-img4.png": "/dao-dev/static/media/service-img4.8a234d9559ed66024938.png",
     "static/media/work-img1.png": "/dao-dev/static/media/work-img1.82364983f4e04d97666a.png",
@@ -36,21 +38,22 @@
     "static/media/skype.svg": "/dao-dev/static/media/skype.4c62a9e1be2a8bd8bdcd1c291f927acd.svg",
     "index.html": "/dao-dev/index.html",
     "static/media/f-twitter.svg": "/dao-dev/static/media/f-twitter.096b111b3e4bf92e7ede4dc42baabfd2.svg",
+    "static/media/location.svg": "/dao-dev/static/media/location.b092956639762027ddc51a37b0d716ad.svg",
     "static/media/arrow-right.svg": "/dao-dev/static/media/arrow-right.bef8182f008504f271f2.svg",
     "static/media/telegram.svg": "/dao-dev/static/media/telegram.ea9e87976dcb6c0cbe6fed58726ac519.svg",
     "static/media/f-telegram.svg": "/dao-dev/static/media/f-telegram.b1c202d23605254a734205b8f1650b98.svg",
     "static/media/f-linkedin.svg": "/dao-dev/static/media/f-linkedin.aab7ed301be53f0a2643f726b9b3d638.svg",
-    "static/media/up-arrow-black.svg": "/dao-dev/static/media/up-arrow-black.c2186afa40f62764ccbd17494fc76ad0.svg",
     "static/media/up-arrow.svg": "/dao-dev/static/media/up-arrow.1161f662f38ee4b120289b58a32e73bd.svg",
     "static/media/phone.svg": "/dao-dev/static/media/phone.071abdc72d8aa324f2946cc3f662a58e.svg",
+    "static/media/arrow-white.svg": "/dao-dev/static/media/arrow-white.7b341f5f95839e4b867f.svg",
     "static/media/f-facebook.svg": "/dao-dev/static/media/f-facebook.0df7deacf9b22b27955dd8369684e9a0.svg",
     "static/media/close.svg": "/dao-dev/static/media/close.d3f5278fe9b13faf785061e1fb93d604.svg",
-    "main.8b53e66f.css.map": "/dao-dev/static/css/main.8b53e66f.css.map",
-    "main.589d9a79.js.map": "/dao-dev/static/js/main.589d9a79.js.map",
+    "main.41a4a353.css.map": "/dao-dev/static/css/main.41a4a353.css.map",
+    "main.bc887b5b.js.map": "/dao-dev/static/js/main.bc887b5b.js.map",
     "787.e54673e6.chunk.js.map": "/dao-dev/static/js/787.e54673e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b53e66f.css",
-    "static/js/main.589d9a79.js"
+    "static/css/main.41a4a353.css",
+    "static/js/main.bc887b5b.js"
   ]
 }
