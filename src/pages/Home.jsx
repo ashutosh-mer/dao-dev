@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 import { Link } from "react-router-dom";
 import Banner from "../components/Banner";
@@ -28,6 +28,10 @@ import PrevArrow from "../images/icons/slider-prev-arrow.svg";
 import NextArrow from "../images/icons/slider-next-arrow.svg";
 
 const Home = () => {
+  useEffect(() => {
+    // 👇️ scroll to top on page load
+    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+  }, []);
   return (
     <>
       <div className="page-wrapper">

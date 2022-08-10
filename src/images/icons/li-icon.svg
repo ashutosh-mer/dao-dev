@@ -1,0 +1,9 @@
+<svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 4.84416L3.28571 1H6.19481L8.8961 4.84416L7.02597 9H3.28571L1 4.84416Z" stroke="url(#paint0_linear_82_83)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_82_83" x1="1" y1="9" x2="8.80788" y2="8.17003" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8404C"/>
+<stop offset="1" stop-color="#45ABF3"/>
+</linearGradient>
+</defs>
+</svg>

@@ -6,6 +6,7 @@ import serviceimage5 from "../images/service-img5.png";
 import serviceimage6 from "../images/service-img6.png";
 import serviceimage7 from "../images/service-img7.png";
 import serviceimage8 from "../images/service-img8.png";
+import processimg1 from "../images/icons/process-iconone.png";
 
 export const Service_Block_Data = [
   {
@@ -78,5 +79,35 @@ export const Service_Block_Data = [
     desc: "Let’s remodel the traditional business rule to a distinct level.",
     btn_txt: "Learn More",
     btn_link: "",
+  },
+];
+
+export const Process_Block_Data = [
+  {
+    id: 1,
+    title: "Transaction Request",
+    desc: "In velit urna, tincidunt ac eros ac, viverra vulputate orci. Etiam sit amet diam mi. Ut vestibulum commodo tristique. ",
+    image: processimg1,
+  },
+
+  {
+    id: 2,
+    title: "Transaction Request",
+    desc: "In velit urna, tincidunt ac eros ac, viverra vulputate orci. Etiam sit amet diam mi. Ut vestibulum commodo tristique. ",
+    image: processimg1,
+  },
+
+  {
+    id: 3,
+    title: "Transaction Request",
+    desc: "In velit urna, tincidunt ac eros ac, viverra vulputate orci. Etiam sit amet diam mi. Ut vestibulum commodo tristique. ",
+    image: processimg1,
+  },
+
+  {
+    id: 4,
+    title: "Transaction Request",
+    desc: "In velit urna, tincidunt ac eros ac, viverra vulputate orci. Etiam sit amet diam mi. Ut vestibulum commodo tristique. ",
+    image: processimg1,
   },
 ];

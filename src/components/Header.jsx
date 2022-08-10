@@ -32,7 +32,7 @@ const Header = () => {
   return (
     <>
       {/* header-starts */}
-      <div className={sticky ? "header-wrap sticky" : "header-wrap"}>
+      <section className={sticky ? "header-wrap sticky" : "header-wrap"}>
         <header>
           <div className="header-top">
             <div className="container">
@@ -75,7 +75,7 @@ const Header = () => {
                       <Link to="/">Home</Link>
                     </li>
                     <li>
-                      <Link to="/">Work</Link>
+                      <Link to="/work">Work</Link>
                     </li>
                     <li>
                       <Link to="/">Services</Link>
@@ -107,7 +107,7 @@ const Header = () => {
                       </ul>
                     </li>
                     <li>
-                      <Link to="/">Contact</Link>
+                      <Link to="/contact">Contact</Link>
                     </li>
                   </ul>
                 </div>
@@ -149,7 +149,7 @@ const Header = () => {
             </div>
           </div>
         </header>
-      </div>
+      </section>
       {/* header-ends */}
     </>
   );
