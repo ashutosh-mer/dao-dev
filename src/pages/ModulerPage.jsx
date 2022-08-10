@@ -9,7 +9,6 @@ import { Process_Block_Data } from "../data/all-data";
 
 const ModularPage = () => {
   useEffect(() => {
-    // 👇️ scroll to top on page load
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
   }, []);
   return (
