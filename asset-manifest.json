@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dao-dev/static/css/main.324304e1.css",
-    "main.js": "/dao-dev/static/js/main.36a28930.js",
+    "main.css": "/dao-dev/static/css/main.88de65b9.css",
+    "main.js": "/dao-dev/static/js/main.d8c957cd.js",
     "static/js/787.e54673e6.chunk.js": "/dao-dev/static/js/787.e54673e6.chunk.js",
     "static/media/service-img8.png": "/dao-dev/static/media/service-img8.9cadd600d40e33614e2e.png",
     "static/media/home-two-img.png": "/dao-dev/static/media/home-two-img.e01c5f9a3352afa2ad79.png",
@@ -48,12 +48,12 @@
     "static/media/arrow-white.svg": "/dao-dev/static/media/arrow-white.7b341f5f95839e4b867f.svg",
     "static/media/f-facebook.svg": "/dao-dev/static/media/f-facebook.0df7deacf9b22b27955dd8369684e9a0.svg",
     "static/media/close.svg": "/dao-dev/static/media/close.d3f5278fe9b13faf785061e1fb93d604.svg",
-    "main.324304e1.css.map": "/dao-dev/static/css/main.324304e1.css.map",
-    "main.36a28930.js.map": "/dao-dev/static/js/main.36a28930.js.map",
+    "main.88de65b9.css.map": "/dao-dev/static/css/main.88de65b9.css.map",
+    "main.d8c957cd.js.map": "/dao-dev/static/js/main.d8c957cd.js.map",
     "787.e54673e6.chunk.js.map": "/dao-dev/static/js/787.e54673e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.324304e1.css",
-    "static/js/main.36a28930.js"
+    "static/css/main.88de65b9.css",
+    "static/js/main.d8c957cd.js"
   ]
 }
